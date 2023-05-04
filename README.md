@@ -1,5 +1,9 @@
 ## Welcome in my github 👋
 
+
+## Me retrouver
+
+[![LinkedIn](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=FFF)](https://www.linkedin.com/in/thomas-gorree-61b178263/)
 <!--
 **thomas-gorree/thomas-gorree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
