@@ -16,7 +16,7 @@
 
 ## En cour d'apprentissage / Perfectionnement
 
-
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&logoColor=F7DF1E)](https://developer.mozilla.org/fr/docs/Web/JavaScript)
 
 
 
